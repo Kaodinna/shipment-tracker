@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "status": "received"
+  },
+  {
+    "id": "2",
+    "status": "canceled"
+  },
+  {
+    "id": "3",
+    "status": "error"
+  },
+  {
+    "id": "4",
+    "status": "delivered"
+  }
+]
